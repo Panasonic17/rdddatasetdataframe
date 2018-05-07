@@ -12,8 +12,11 @@ object App {
     //raiting
     //userId,movieId,rating,timestamp
 
+    //movies
+    //movieId,title,genres
 
     //rdd
+
 
     //dataframe
 
